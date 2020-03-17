@@ -1,6 +1,26 @@
 {
-  "user": {
-    "id": 1,
-    "username": "justin"
+  "users": [
+    {
+      "id": 1,
+      "name": "justin greeg",
+      "username": "@justin",
+      "email": "justin@me.com"
+    },
+    {
+      "id": 2,
+      "name": "brad lon",
+      "username": "@brad",
+      "email": "brad@me.com"
+    },
+    {
+      "id": 3,
+      "name": "emma fiyon",
+      "username": "@emma",
+      "email": "emma@me.com"
+    }
+  ],
+  "posts": {
+    "id": "2",
+    "title": "hello"
   }
 }
